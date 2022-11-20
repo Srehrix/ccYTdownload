@@ -7,5 +7,5 @@ async def start(client, message):
 		[InlineKeyboardButton("Developer", url="https://t.me/Tiyaan_bots")]
                 ])
   
-  help_image = config.HPIC
-	await message.reply_photo(help_image,  caption="\n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n \n======================\n • 😊 This bot is fully free.__\n`•⚙ Powered by @Tiyaan_bots`\n\n",reply_markup=alpha2)
+  START_PIC = config.SPIC
+	await message.reply_photo(START_PIC,  caption="\n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n \n======================\n • 😊 This bot is fully free.__\n`•⚙ Powered by @Tiyaan_bots`\n\n",reply_markup=alpha2)
