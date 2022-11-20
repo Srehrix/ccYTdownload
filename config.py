@@ -5,6 +5,6 @@ APP_ID = int(os.environ.get("API_ID"))
 API_HASH = os.environ.get("API_HASH")
 SPIC = os.environ.get("START_PIC")
 youtube_next_fetch = 0  # time in minute
-
+PORT = os.environ.get("PORT", "8080")
 
 EDIT_TIME = 5
