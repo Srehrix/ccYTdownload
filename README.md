@@ -4,9 +4,12 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
+  <a href="https://t.me/CinemaCompanyofficials">
+    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  </a>
   <a href="https://t.me/Tiyaan_bots">
-    <img src="https://github.com/srehrix/PyrogramGenStr/blob/main/resources/madebytiyaan_bots-badge.svg" width="250">
-  </a><br>
+    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  </a>
 Youtube download telegram bot
 
 Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
@@ -18,3 +21,11 @@ Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fas
 # ⚕️ JOIN WITH US >>
 
 <a href="https://t.me/Tiyaan_bots"><img src="https://img.shields.io/badge/Join-Telegram%20SUPGroup-red.svg?logo=Telegram"></a>
+
+  
+  #### Deploy on Koyeb
+
+The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Srehrix/ccYTdownload&branch=main&name=ytdownloader)
