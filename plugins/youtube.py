@@ -1,7 +1,10 @@
+from aiohttp import web
+from plugins import web_server
+
 from datetime import datetime, timedelta
 from pyrogram import Client, Filters, InlineKeyboardMarkup, InlineKeyboardButton
 from bot import user_time
-from config import youtube_next_fetch
+from config import youtube_next_fetch, PORT
 from helper.ytdlfunc import extractYt, create_buttons
 import wget
 import os
@@ -55,3 +58,8 @@ async def ytdl(_, message):
         except Exception as e:
             await sentm.edit(
             f"<code>{e}</code> #Error")
+#web-response
+        app = web.AppRunner(await web_server())
+        await app.setup()
+        bind_address = "0.0.0.0"
+        await web.TCPSite(app, bind_address, PORT).start()
