@@ -1,5 +1,12 @@
 # ccYTdownload
 
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+  </a>
+  <a href="https://t.me/Tiyaan_bots">
+    <img src="https://github.com/srehrix/PyrogramGenStr/blob/main/resources/madebytiyaan_bots-badge.svg" width="250">
+  </a><br>
 Youtube download telegram bot
 
 Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
