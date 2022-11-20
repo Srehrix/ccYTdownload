@@ -5,7 +5,7 @@ Youtube download telegram bot
 Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
 
 # 🔐 Available on Telegram As >> <br>
-<a href="https://t.me/Youtube_Downloader_AL4X_Bot"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
+<a href="https://t.me/YT_Youtube_download_Cc_bot"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
 
 
 # ⚕️ JOIN WITH US >>
